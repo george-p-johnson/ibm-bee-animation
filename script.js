@@ -1,6 +1,7 @@
 console.clear()
 
 var beeSvg = "./bee.png";
+var thinkBG = "https://images.ctfassets.net/bguk4g2zwmps/5TSoOSQe5ok4INCIYhTX9X/57794aed6fe0ec6306febb4ca254049e/think-og-1x1.jpg";
 
 var $ = window.jQuery
 var PIXI = window.PIXI
